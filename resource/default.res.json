@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "keys": "bg_jpg,egret_icon_png,description_json,82_json,82_png,83_json,83_png",
+      "name": "preload"
+    }
+  ],
+  "resources": [
+    {
+      "name": "bg_jpg",
+      "type": "image",
+      "url": "assets/bg.jpg"
+    },
+    {
+      "name": "egret_icon_png",
+      "type": "image",
+      "url": "assets/egret_icon.png"
+    },
+    {
+      "name": "description_json",
+      "type": "json",
+      "url": "config/description.json"
+    },
+    {
+      "name": "82_png",
+      "type": "image",
+      "url": "assets/82.png"
+    },
+    {
+      "name": "82_json",
+      "type": "json",
+      "url": "assets/82.json"
+    },
+    {
+      "name": "83_json",
+      "type": "json",
+      "url": "assets/83.json"
+    },
+    {
+      "name": "83_png",
+      "type": "image",
+      "url": "assets/83.png"
+    }
+  ]
+}
